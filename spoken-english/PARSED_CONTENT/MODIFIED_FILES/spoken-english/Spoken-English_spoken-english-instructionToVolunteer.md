@@ -9,7 +9,7 @@ spoken-english-instructionToVolunteer_key3[spoken-english-instructionToVolunteer
 spoken-english-instructionToVolunteer_key5
 
 spoken-english-instructionToVolunteer_key6
-spoken-english-instructionToVolunteer_key7[spoken-english-instructionToVolunteer_key8](https://play.google.com/store/apps/details?id=org.merakilearn&hl=en_IN&gl=US,)
+spoken-english-instructionToVolunteer_key7[spoken-english-instructionToVolunteer_key8](https://play.google.com/store/apps/details?id=org.merakilearn&hl=en_IN&gl=US)
 spoken-english-instructionToVolunteer_key9
 
 
