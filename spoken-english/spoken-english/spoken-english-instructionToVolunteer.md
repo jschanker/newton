@@ -10,7 +10,7 @@ Holaaaa :) Welcome welcome :)
 ******We have broken down the curriculum over [www.Merakilearn.org](http://www.Merakilearn.org) in parts of 15 week course material, where we expect the students to come out in better fluency and speaking by the end of this course. This can be ensured by the following phases that we have mentioned for the flow of Volunteer and Student interaction based on the structure.
 
 ### Step 1 - Signing into Meraki
-Please download the application and sign in. Spend some time and explore the [application](https://play.google.com/store/apps/details?id=org.merakilearn&hl=en_IN&gl=US,).
+Please download the application and sign in. Spend some time and explore the [application](https://play.google.com/store/apps/details?id=org.merakilearn&hl=en_IN&gl=US).
 
 
 For the next steps, Sign into www.Merakilearn.org using your Web Browser. (Prefer Google Chrome)
